@@ -7,8 +7,8 @@
 😉 I'm a small student and have lots of things to learn. So i'm trying to learn as much as I can.  
 
 🥳 I'm currently learing...  
-`Javascript`
-`Nodejs`  
+`Javascript`  
+`Nodejs`   
 `React Native`  
 `Docker`  
 `C++`  
