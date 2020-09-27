@@ -6,7 +6,13 @@
 
 😉 I'm a small student and have lots of things to learn. So i'm trying to learn as much as I can.  
 
-🥳 Here's what I can do: `Javascript(Nodejs, React Native)`, `Docker`, `C++`. 
+🥳 I'm currently learing...  
+`Javascript`
+`Nodejs`  
+`React Native`  
+`Docker`  
+`C++`  
+`Java`  
 
 
 
