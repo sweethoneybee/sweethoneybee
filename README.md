@@ -15,11 +15,11 @@
 `Java`  
 
 😎 My Apps on Service  
-**momelet**  
+**momelet** - 식당 선택을 도와주는 서비스  
 android: [Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)  
 ios: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)  
 
-**출석하냥**  
+**출석하냥** - 한양대학교 온라인 녹화강의 출석현황 확인    
 android: [Google Play](https://play.google.com/store/apps/details?id=com.sweethoneybee.ChulseokHanyang)  
 iOS: [App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83%A5/id1540962786#?platform=iphone)
 
