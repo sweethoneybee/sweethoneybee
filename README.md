@@ -4,7 +4,7 @@
 
 🔭 I'm working on `Momelet`, a cross-platform application helping people to choose a restaurant easily.  
 
-😉 I'm a small student and have lots of things to learn. So i'm trying to learn as much as I can.  
+😉 I'm a student and have lots of things to learn. So i'm trying to learn as much as I can.  
 
 🥳 I'm currently learning...  
 `Javascript`  
@@ -14,9 +14,14 @@
 `C++`  
 `Java`  
 
+😎 My Apps on Service  
+**momelet**  
+android: [Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)  
+ios: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)  
 
-
-
+**출석하냥**  
+android: [Google Play](https://play.google.com/store/apps/details?id=com.sweethoneybee.ChulseokHanyang)  
+iOS: [App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83%A5/id1540962786#?platform=iphone)
 
 
 <!--
