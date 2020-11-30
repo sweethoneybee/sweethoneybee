@@ -1,6 +1,6 @@
 ## 😘 Thank you for reading my profile
 
-🌱 I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people conveient, amused, happy.  
+🌱 I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people convenient, amused, happy.  
 
 🔭 I'm working on `Momelet`, a cross-platform application helping people to choose a restaurant easily.  
 
