@@ -26,7 +26,8 @@ iOS: [App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83
 
 🎮 My game  
 **ForTuna** - 새우를 먹으며 오랫동안 살아남기    
-Play: [respository](https://github.com/sweethoneybee/gameprogramming_capston)  
+Play: [Respository](https://github.com/sweethoneybee/gameprogramming_capston)   
+Demo video: [https://youtu.be/FGfwm9omAH4](https://youtu.be/FGfwm9omAH4)  
 <!--
 **sweethoneybee/sweethoneybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
