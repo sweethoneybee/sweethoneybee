@@ -24,7 +24,9 @@ ios: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)
 android: [Google Play](https://play.google.com/store/apps/details?id=com.sweethoneybee.ChulseokHanyang)  
 iOS: [App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83%A5/id1540962786#?platform=iphone)
 
-
+🎮 My game  
+**ForTuna** - 새우를 먹으며 오랫동안 살아남기    
+Play: [respository](https://github.com/sweethoneybee/gameprogramming_capston)  
 <!--
 **sweethoneybee/sweethoneybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
