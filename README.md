@@ -7,16 +7,17 @@
 😉 I'm a student and have lots of things to learn. So i'm trying to learn as much as I can.  
 
 🥳 I'm currently learning...  
+`Cocoa Touch Framework`
+`Swift`
 `Javascript`  
 `Nodejs`   
 `React Native`  
 `Docker`  
 `C++`  
 `Java`  
-`Swift`
 
 😎 My Apps on Service  
-**momelet** - 식당 선택을 도와주는 서비스  
+**momelet** - 식당 선택을 도와주는 서비스(~ 20.12.23)  
 Android: [Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)  
 iOS: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)  
 
