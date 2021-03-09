@@ -21,9 +21,12 @@
 Android: [Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)  
 iOS: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)  
 
-**출석하냥** - 한양대학교 온라인 녹화강의 출석현황 확인    
+**출석하냥** - 한양대학교 온라인 녹화강의 출석현황 확인(~ 20.12.25)      
 Android: [Google Play](https://play.google.com/store/apps/details?id=com.sweethoneybee.ChulseokHanyang)  
 iOS: [App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83%A5/id1540962786#?platform=iphone)
+
+**왕국타이머** - 쿠키런킹덤과 같은 농장형 게임에서 생산물을 관리하기 위한 타이머 앱  
+iOS: [App store](https://apps.apple.com/us/app/%EC%99%95%EA%B5%AD%ED%83%80%EC%9D%B4%EB%A8%B8/id1556230748)  
 
 🎮 My game  
 **ForTuna** - 새우를 먹으며 오랫동안 살아남기    
