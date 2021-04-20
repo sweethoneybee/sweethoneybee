@@ -14,8 +14,8 @@ I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people con
   
 ## 😎 My Apps on Service  
 **momelet** - 식당 선택을 도와주는 서비스(~ 20.12.23)     
-Android: [Google Play]~~(https://play.google.com/store/apps/details?id=com.recoder.momelet)~~  
-iOS: [App store]~~(https://apps.apple.com/kr/app/momelet/id1534528860)~~  
+Android: ~~[Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)~~  
+iOS: ~~[App store](https://apps.apple.com/kr/app/momelet/id1534528860)~~  
 Souce Code: [momelet](https://github.com/raiders032/momelet)   
 
 **출석하냥** - 한양대학교 온라인 녹화강의 출석현황 확인(~ 20.12.25)      
