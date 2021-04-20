@@ -1,14 +1,18 @@
-## 😘 Thank you for reading my profile
+# 🥳 Thank you for reading my profile!  
 
-🌱 I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people convenient, amused, happy.  
+I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people convenient, amused, happy.  
 
-😉 I'm a student and have lots of things to learn. So i'm trying to learn as much as I can.  
+👀 I like presenting, sharing oppion with people, Community of Pratice(CoP).   
 
-🥳 I'm currently learning...  
-`Cocoa Touch`  
-`Swift`  
+💪 I believe in the power of habit. So I do learn everyday and try to be a better programmer than yesterday.  
+
+👨‍🎓 I'm a 11th graduate of [Software Maestro](https://www.swmaestro.org/sw/main/main.do).
+
+🌱 I'm currently learning...  
+* `Swift`, `iOS`
+* `Node.js`
   
-😎 My Apps on Service  
+## 😎 My Apps on Service  
 **momelet** - 식당 선택을 도와주는 서비스(~ 20.12.23)    
 Android: [Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)  
 iOS: [App store](https://apps.apple.com/kr/app/momelet/id1534528860)  
