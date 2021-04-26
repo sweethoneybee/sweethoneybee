@@ -2,15 +2,14 @@
 
 I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people convenient, amused, happy.  
 
-👀 I like presenting, sharing oppion with people, Community of Pratice(CoP).   
+👀 I like presenting, sharing oppion with people.   
 
 💪 I believe in the power of habit. So I do learn everyday and try to be a better programmer than yesterday.  
 
 👨‍🎓 I'm a 11th graduate of [Software Maestro](https://www.swmaestro.org/sw/main/main.do).
 
 🌱 I'm currently learning...  
-* `Swift`, `iOS`
-* `Node.js`
+* `Swift`, `iOS`  
   
 ## 😎 My Apps on Service  
 **momelet** - 식당 선택을 도와주는 서비스(~ 20.12.23)     
