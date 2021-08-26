@@ -7,7 +7,7 @@ I'm Seonghoon Jeong, sweethoneybee. Interested in a service that make people con
 💪 I believe in the power of habit. So I do learn everyday and try to be a better programmer than yesterday.  
 
 👨‍🎓 I'm a 11th graduate of [Software Maestro](https://www.swmaestro.org/sw/main/main.do).  
-🐢 iOS Developer Internship 21.06.28 ~ 21.08.31 => result:   
+🐢 iOS Developer Internship 21.06.28 ~ 21.08.31 => result: 🎰   
 
 🌱 I'm currently learning...  
 * `Swift`, `iOS`  
