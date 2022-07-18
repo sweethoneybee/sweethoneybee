@@ -13,6 +13,7 @@ I'm Seonghoon Jeong, sweethoneybee. Interested in a service that makes people co
 * `Swift`, `iOS`  
   
 ## 😎 Apps I participated  
+### ✈️Cross platform apps
 **momelet** - 식당 선택을 도와주는 서비스(~ 20.12.23)     
 Android: ~~[Google Play](https://play.google.com/store/apps/details?id=com.recoder.momelet)~~  
 iOS: ~~[App store](https://apps.apple.com/kr/app/momelet/id1534528860)~~  
@@ -24,6 +25,7 @@ Android: ~~[Google Play](https://play.google.com/store/apps/details?id=com.sweet
 iOS: ~~[App store](https://apps.apple.com/us/app/%EC%B6%9C%EC%84%9D%ED%95%98%EB%83%A5/id1540962786#?platform=iphone)~~  
 Source Code: [attendance](https://github.com/sweethoneybee/attendance)   
 
+### 📱iOS native apps
 **왕국타이머** - 쿠키런킹덤과 같은 농장형 게임에서 생산물을 관리하기 위한 타이머 앱  
 iOS: [App store](https://apps.apple.com/us/app/%EC%99%95%EA%B5%AD%ED%83%80%EC%9D%B4%EB%A8%B8/id1556230748)  
 Source Code: [KingdomTimer](https://github.com/sweethoneybee/KingdomTimer)   
@@ -32,7 +34,7 @@ Source Code: [KingdomTimer](https://github.com/sweethoneybee/KingdomTimer)
 iOS: [App Store](https://apps.apple.com/us/app/%EC%95%94%EA%B8%B0%EB%B9%B5/id1597721353)  
 Source Code: [MemoryBread](https://github.com/sweethoneybee/MemoryBread)   
 
-🎮  Game  
+### 🎮  Game  
 **ForTuna** - 새우를 먹으며 오랫동안 살아남기    
 Demo video: [https://youtu.be/FGfwm9omAH4](https://youtu.be/FGfwm9omAH4)  
 SourceCode and Play: [ForTuna](https://github.com/sweethoneybee/gameprogramming_capston)   
