@@ -8,7 +8,7 @@ I'm Seonghoon Jeong, sweethoneybee. Interested in a service that makes people co
 
 👨‍🎓 I'm an 11th graduate of [Software Maestro](https://www.swmaestro.org/sw/main/main.do).  
 🐢 Participated in iOS engineer internship 21.06.28 ~ 21.08.31   
-📱 Working as an iOS engineer 22.08.08 ~ 
+📱 Working as an iOS engineer 22.08.08 ~   
 🌱 I'm currently learning...  
 * `Swift`, `iOS`  
   
